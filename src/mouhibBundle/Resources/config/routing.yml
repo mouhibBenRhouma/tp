@@ -1,0 +1,3 @@
+mouhib_homepage:
+    path:     /index
+    defaults: { _controller: mouhibBundle:Default:index }

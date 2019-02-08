@@ -1,0 +1,7 @@
+mouhib:
+    resource: "@mouhibBundle/Resources/config/routing.yml"
+    prefix:   /mouhib
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
